@@ -8,20 +8,22 @@ All course materials, slides, sheets, solutions, codes, and notes will be organi
 ## 📘 Course Resources
 
 ### 🔹 CSE 205 — Digital Logic Design  
-- 
+- [Monirul Sir](./CSE205/MonirulSir/)
 
 ### 🔹 CSE 206 — Digital Logic Design Sessional  
-- 
+- [Lab Sheet](./CSE206/LabSheet/)
 
 ### 🔹 CSE 207 — Data Structures and Algorithms II  
-- [Bayzid Sir](./CSE207/BayzidSir/)  
+- [Rumi Sir](./CSE207/RumiSir/)
+- [Bayzid Sir](./CSE207/BayzidSir/)
+- [Tushar Sir](./CSE207/TusharSir/)
 
 
 ### 🔹 CSE 208 — Data Structures and Algorithms II Sessional  
 - []()
 
 ### 🔹 CSE 215 — Database  
-- []()
+- [Tanzima Madam](./CSE215/TanzimaMadam)
 
 ### 🔹 CSE 216 — Database Sessional  
 - []()

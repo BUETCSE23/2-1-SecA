@@ -1,0 +1,5 @@
+.temp.driveupload
+.tmp.drivedownload
+*.log
+.DS_Store
+Icon?
