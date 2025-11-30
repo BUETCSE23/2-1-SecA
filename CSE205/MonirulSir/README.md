@@ -8,5 +8,4 @@
 - [Chapter 5](./CSE205_chapter5.pdf)
 - [Chapter 6](./CSE205_chapter6.pdf)
 - [Chapter 7](./CSE205_PLA_design_chapter7.pdf)
-
 - [Chapter 9](./CSE205_chapter9.pdf)
