@@ -9,14 +9,16 @@ All course materials, slides, sheets, solutions, codes, and notes will be organi
 
 ### 🔹 CSE 205 — Digital Logic Design  
 - [Monirul Sir](./CSE205/MonirulSir/)
+- [Sojib Sir](./CSE205/SojibSir/)
+- [Nazneen Madam](./CSE205/NazneenMadam/)
 
 ### 🔹 CSE 206 — Digital Logic Design Sessional  
 - [Lab Sheet](./CSE206/LabSheet/)
 
 ### 🔹 CSE 207 — Data Structures and Algorithms II  
 - [Rumi Sir](./CSE207/RumiSir/)
-- [Bayzid Sir](./CSE207/BayzidSir/)
 - [Tushar Sir](./CSE207/TusharSir/)
+- [Bayzid Sir](./CSE207/BayzidSir/)
 
 
 ### 🔹 CSE 208 — Data Structures and Algorithms II Sessional  
@@ -24,6 +26,8 @@ All course materials, slides, sheets, solutions, codes, and notes will be organi
 
 ### 🔹 CSE 215 — Database  
 - [Tanzima Madam](./CSE215/TanzimaMadam)
+- [Sukarna Sir](./CSE215/SukarnaSir/)
+- [Kowshic Sir](./CSE215/KowshicSir/)
 
 ### 🔹 CSE 216 — Database Sessional  
 - []()
@@ -38,9 +42,6 @@ All course materials, slides, sheets, solutions, codes, and notes will be organi
 - []() 
 
 ---
-
-
-
 
 ## ✔ Notes  
 This repo will be updated throughout the term.  
