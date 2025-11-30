@@ -5,9 +5,12 @@ All course materials, slides, sheets, solutions, codes, and notes will be organi
 
 ---
 
-You can explore the [website!](https://buetcse23.github.io/2-1-SecA/) :hugs:
+### You can explore the [website!](https://buetcse23.github.io/2-1-SecA/) :hugs:
 
 ---
+
+## 🔹 Class Routine
+![](./ClassRoutineSecA.png)
 
 ## 📘 Course Resources
 
