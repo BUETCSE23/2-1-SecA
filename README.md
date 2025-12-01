@@ -22,6 +22,7 @@ All course materials, slides, sheets, solutions, codes, and notes will be organi
 
 ### 🔹 CSE 206 — Digital Logic Design Sessional 
 - [Course Outline](./CSE206/CSE206_Course_Outline.jpg) 
+- [IC Handbook](./CSE206/IC_Handbook.pdf)
 - [Lab Sheet](./CSE206/LabSheet/)
 
 ### 🔹 CSE 207 — Data Structures and Algorithms II  
@@ -46,24 +47,42 @@ All course materials, slides, sheets, solutions, codes, and notes will be organi
 - [Sample Project Topics](./CSE216/CSE216-Sample-Project-Topics.pdf)
 - [Oracle SQL Book](./CSE216/Oracle-SQL-PL-SQL.pdf)
 
+
 ### 🔹 EEE 263 — Electronic Circuits
 - [Course Outline](./EEE263/EEE263_Course_Outline.pdf)
-- []()
+- [Text Book](./EEE263/Books/Sedra_7th.pdf)
+- [Solution Book](./EEE263/Books/Sedra_7th_soln.pdf)
+- Class Lectures
+  - [Lec-1](./EEE263/Whiteboards/L1-intro-diode.pdf)
+  <!-- - [Lec-2](./EEE263/Whiteboards/L2-diode-circuit.pdf)
+  - [Lec-3](./EEE263/Whiteboards/L3-bjt-intro.pdf)
+  - [Lec-4](./EEE263/Whiteboards/L4-bjt-circuit.pdf)
+  - [Lec-5](./EEE263/Whiteboards/L5-bjt-amplifier.pdf)
+  - [Lec-6](./EEE263/Whiteboards/L6-fet-intro.pdf)
+  - [Lec-7](./EEE263/Whiteboards/L7-fet-circuit.pdf) -->
+
 
 ### 🔹 EEE 264 — Electronic Circuits Sessional
 - [Course Outline](./EEE264/EEE264_Course_Outline.pdf)
-- []()
+- [Lab Sheet](./EEE264/LabSheet/EEE264-LabSheet.pdf)
 
 ### 🔹 MATH 241 — Advanced Calculus
 - [Course Outline](./MATH241/MATH241_Course_Outline.pdf)
 - [PDE](./MATH241/PDE-Alim-Sir/)
   - [Text Book](./MATH241/PDE-Alim-Sir/Raishinghania.pdf)
 - [Vector Calculus](./MATH241/Vector/)
-  - [Text Book](./MATH241/Vector/Vector_Calculus_by_Schuam_Series.pdf)
+  - [Text Book](./MATH241/Vector-Obayedullah-Sir/Schaums.pdf)
+  - [Text Book Solution](./MATH241/Vector-Obayedullah-Sir/Schaums_Solution.pdf)
 - [Complex](./MATH241/Complex/)
-  - [Text Book](./MATH241/Complex/Complex_Variables_by_Schuam_Series.pdf)
+  - [Text Book](./MATH241/Complex/Schaums.pdf)
+  - [Text Book Solution](./MATH241/Complex/Schaums_Solution.pdf)
 
 ---
+
+## ✔ General  
+- [L2-T1 Sec A Website](https://buetcse23.github.io/2-1-SecA/)
+- [Academic Calendar July 2025](./AcademicCalendarJuly2025.pdf)
+- [Class Routine July 2025](./July_2025_level_term_v_1.pdf)
 
 ## ✔ Notes  
 This repo will be updated throughout the term.  
