@@ -11,13 +11,14 @@ All course materials, slides, sheets, solutions, codes, and notes will be organi
 
 ## 🔹 Class Routine
 ![](./ClassRoutineSecA.png)
-| Day  | 8 | 9             | 10            | 11           | 12          |   | 2 |          |              |
-|------|---------|---------------|---------------|------------|-----------|---------------|-------------|-------------|------------------|
-| **SAT** | CT      | CSE205  | CSE207  | CSE206  |          |     | CSE215  |                             |                             |                             |
-| **SUN** |         | MATH241    | CSE215  | EEE264 |               | |CSE216 |                             |                             |                             |
-| **MON** | CT      | MATH241    | EEE263     | CSE215  | CSE207  |               |                             |                             |                             |
-| **TUE** |         | MATH241    | EEE263     | CSE207  | CSE205   |               |                             |                             |                             |
-| **WED** | CT      |     |          | EEE263     | CSE205  |               |   CSE208 |                             |                             |                             |
+| Day   | 8       | 9        | 10       | 11       | 12       | 1 PM | 2 PM    | 3 PM | 4 PM |
+|-------|---------|----------|----------|----------|----------|------|---------|------|------|
+| SAT   | CT      | CSE205   | CSE207   | CSE206   |          |      | CSE215 |      |      |
+| SUN   |         | MATH241  | CSE215   | EEE264   |          |      | CSE216 |      |      |
+| MON   | CT      | MATH241  | EEE263   | CSE215   | CSE207   |      |        |      |      |
+| TUE   |         | MATH241  | EEE263   | CSE207   | CSE205   |      |        |      |      |
+| WED   | CT      |          |          | EEE263   | CSE205   |      | CSE208 |      |      |
+
 ## 📘 Course Resources
 
 ### 🔹 CSE 205 — Digital Logic Design  
