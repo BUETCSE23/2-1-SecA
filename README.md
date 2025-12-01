@@ -17,6 +17,14 @@ All course materials, slides, sheets, solutions, codes, and notes will be organi
 ### 🔹 CSE 205 — Digital Logic Design  
 - [Course Outline](./CSE205/CSE205_Course_Outline.pdf)
 - [Monirul Sir](./CSE205/MonirulSir/)
+  - [Chapter 1](./CSE205/MonirulSir/CSE205_chapter1.pdf)
+  - [Chapter 2](./CSE205/MonirulSir/CSE205_chapter2.pdf)
+  - [Chapter 3](./CSE205/MonirulSir/CSE205_chapter3.pdf)
+  - [Chapter 4](./CSE205/MonirulSir/CSE205_chapter4.pdf)
+  - [Chapter 5](./CSE205/MonirulSir/CSE205_chapter5.pdf)
+  - [Chapter 6](./CSE205/MonirulSir/CSE205_chapter6.pdf)
+  - [Chapter 7](./CSE205/MonirulSir/CSE205_PLA_design_chapter7.pdf)
+  - [Chapter 9](./CSE205/MonirulSir/CSE205_chapter9.pdf)
 - [Sojib Sir](./CSE205/SojibSir/)
 - [Nazneen Madam](./CSE205/NazneenMadam/)
 
@@ -28,6 +36,7 @@ All course materials, slides, sheets, solutions, codes, and notes will be organi
 ### 🔹 CSE 207 — Data Structures and Algorithms II  
 - [Course Outline](./CSE207/CSE207_Course_Outline.pdf)
 - [Rumi Sir](./CSE207/RumiSir/)
+  - [BFS-DFS](./CSE207/RumiSir/BFS-DFS.pdf)
 - [Tushar Sir](./CSE207/TusharSir/)
 - [Bayzid Sir](./CSE207/BayzidSir/)
 
@@ -39,6 +48,8 @@ All course materials, slides, sheets, solutions, codes, and notes will be organi
 ### 🔹 CSE 215 — Database 
 - [Course Outline](./CSE215/CSE215_Course_Outline.pdf)
 - [Tanzima Madam](./CSE215/TanzimaMadam)
+  - [Introduction](./CSE215/TanzimaMadam/Introduction.pdf)
+  - [ER Diagram](./CSE215/TanzimaMadam/Lecture2.pdf)
 - [Sukarna Sir](./CSE215/SukarnaSir/)
 - [Kowshic Sir](./CSE215/KowshicSir/)
 
