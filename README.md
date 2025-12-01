@@ -10,7 +10,81 @@ All course materials, slides, sheets, solutions, codes, and notes will be organi
 ---
 
 ## 🔹 Class Routine
+
+<table align="center">
+  <tr align="center">
+    <th>Day</th>
+    <th>8 AM</th>
+    <th>9 AM</th>
+    <th>10 AM</th>
+    <th>11 AM</th>
+    <th>12 PM</th>
+    <th>1 PM</th>
+    <th>2 PM</th>
+    <th>3 PM</th>
+    <th>4 PM</th>
+  </tr>
+
+  <tr>
+    <td><b>SAT</b></td>
+    <td>CT</td>
+    <td>CSE205</td>
+    <td>CSE207</td>
+    <td colspan="3" align="center">CSE206</td>
+    <td>CSE215</td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td><b>SUN</b></td>
+    <td></td>
+    <td>MATH241</td>
+    <td>CSE215</td>
+    <td colspan="3" align="center">EEE264</td>
+    <td colspan="3" align="center">CSE216</td>
+  </tr>
+
+  <tr>
+    <td><b>MON</b></td>
+    <td>CT</td>
+    <td>MATH241</td>
+    <td>EEE263</td>
+    <td>CSE215</td>
+    <td>CSE207</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td><b>TUE</b></td>
+    <td></td>
+    <td>MATH241</td>
+    <td>EEE263</td>
+    <td>CSE207</td>
+    <td>CSE205</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td><b>WED</b></td>
+    <td>CT</td>
+    <td></td>
+    <td></td>
+    <td>EEE263</td>
+    <td>CSE105</td>
+    <td></td>
+    <td colspan="3" align="center">CSE208</td>
+  </tr>
+</table>
+
 ![](./ClassRoutineSecA.png)
+<!--
 | Day   | 8       | 9        | 10       | 11       | 12       | 1 PM | 2 PM    | 3 PM | 4 PM |
 |-------|---------|----------|----------|----------|----------|------|---------|------|------|
 | SAT   | CT      | CSE205   | CSE207   | CSE206   |          |      | CSE215 |      |      |
@@ -18,7 +92,7 @@ All course materials, slides, sheets, solutions, codes, and notes will be organi
 | MON   | CT      | MATH241  | EEE263   | CSE215   | CSE207   |      |        |      |      |
 | TUE   |         | MATH241  | EEE263   | CSE207   | CSE205   |      |        |      |      |
 | WED   | CT      |          |          | EEE263   | CSE205   |      | CSE208 |      |      |
-
+-->
 ## 📘 Course Resources
 
 ### 🔹 CSE 205 — Digital Logic Design  
