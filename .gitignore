@@ -1,5 +1,7 @@
 .temp.driveupload
 .tmp.drivedownload
+*.pptx
+*.mkv
 *.log
 .DS_Store
 Icon?
