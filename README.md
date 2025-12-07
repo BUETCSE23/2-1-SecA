@@ -5,8 +5,24 @@ All course materials, slides, sheets, solutions, codes, and notes will be organi
 
 ---
 
-### You can explore the [website!](https://buetcse23.github.io/2-1-SecA/) :hugs:
+## How to use this repo?
+1. First download the repo by cloning, goto the terminal / command-promt
+   
+    ```bash
+    git clone https://github.com/BUETCSE23/2-1-SecA.git
+    cd 2-1-SecA
+    ```
 
+2. Whenever you want to update your local clone, goto the terminal / command-promt
+   ```bash
+   cd 2-1-SecA
+   git pull
+   ```
+
+---
+
+### You can explore the [website!](https://buetcse23.github.io/2-1-SecA/) :hugs:
+### Also the [GitHub-repo](https://github.com/BUETCSE23/2-1-SecA/)
 ---
 
 ## 🔹 Class Routine
@@ -172,6 +188,7 @@ All course materials, slides, sheets, solutions, codes, and notes will be organi
 ---
 
 ## ✔ General  
+- [L2-T1 Sec A GitHub-repo](https://github.com/BUETCSE23/2-1-SecA/)
 - [L2-T1 Sec A Website](https://buetcse23.github.io/2-1-SecA/)
 - [Academic Calendar July 2025](./AcademicCalendarJuly2025.pdf)
 - [Class Routine July 2025](./July_2025_level_term_v_1.pdf)
