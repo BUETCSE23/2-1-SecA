@@ -197,4 +197,3 @@ All course materials, slides, sheets, solutions, codes, and notes will be organi
 This repo will be updated throughout the term.  
 Feel free to report broken links or missing files.
 
-
