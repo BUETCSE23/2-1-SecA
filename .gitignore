@@ -1,7 +1,14 @@
 .tmp.driveupload
 .tmp.drivedownload
 *.pptx
+*.ppt
+*.doc
+*.docx
 *.mkv
+*.mp4
 *.log
 .DS_Store
+*.DS_Store
 Icon?
+Icon*
+Icon\r
